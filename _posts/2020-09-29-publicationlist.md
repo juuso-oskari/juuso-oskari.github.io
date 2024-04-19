@@ -4,10 +4,8 @@ title: Publication List
 ---
 
 
- - <small>**<u>Y. Chen</u>**, Q. Wu, J. Cai, M. Harandi, W. Lin, "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression", arXiv preprint arXiv:2403.14530 (2024).</small>
- - <small>**<u>Y. Chen</u>**, Q. Wu, M. Harandi, J. Cai, "How Far Can We Compress Instant-NGP-Based NeRF?", CVPR 2024.</small>
- - <small>S. Liu, W. Lin, **<u>Y. Chen</u>**, Y. Zhang, W. Dai, J. See, H. Xiong, "A Unified Framework for Jointly Compressing Visual and Semantic Data", ACM Trans. Multimedia Computing, Communications, and Applications, 2024.</small>
- - <small>**<u>Y. Chen</u>**, W. Dong, Y. Xie, "A dual realization of Chua’s chaotic oscillator using a current-controlled nonlinear resistor." 2021 IEEE 3rd International Conference on Circuits and Systems (ICCS). IEEE, 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9697183)] (*This is my very first published paper. Most sincere appreciations to [Prof. Weijie Dong](http://faculty.dlut.edu.cn/0912345/zh_CN/index.htm)*'s guidance to this paper.)</small>
+ - <small>**<u>Y. Chen</u>**, J. Korhonen, G. Rangu, H. R. Tavakoli, J. Kannala, "Efficient NeRF Optimization - Not All Samples Remain Equally Hard" (2024).</small>
+ - <small>**<u>Y. Chen</u>**, M. Taipale, J. Tiihonen, J. Korhonen, D. Popovic, O. Vaurio, M. Lähteenvuo, J. Lieslehto, Effects of Substance Use and Antisocial Personality on Neuroimaging-Based Machine Learning Prediction of Schizophrenia, Schizophrenia Bulletin, November 2023, [[Paper](https://doi.org/10.1093/schbul/sbad103)].</small>
 
 
 <!--
