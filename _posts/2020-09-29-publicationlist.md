@@ -4,8 +4,10 @@ title: Publication List
 ---
 
 
- - <small>**<u>J. Korhonen</u>**, G. Rangu, H. R. Tavakoli, J. Kannala, "Efficient NeRF Optimization - Not All Samples Remain Equally Hard" (2024).</small>
- - <small>M. Taipale, J. Tiihonen, **<u>J. Korhonen</u>**, D. Popovic, O. Vaurio, M. Lähteenvuo, J. Lieslehto, Effects of Substance Use and Antisocial Personality on Neuroimaging-Based Machine Learning Prediction of Schizophrenia, Schizophrenia Bulletin, November 2023, [[Paper](https://doi.org/10.1093/schbul/sbad103)].</small>
+ - <small>**<u>J. Korhonen</u>**, G. Rangu, H. R. Tavakoli, J. Kannala, "Efficient NeRF Optimization - Not All Samples Remain Equally Hard". Pending to ECCV 2024</small>
+ - <small>M. Taipale, J. Tiihonen, **<u>J. Korhonen</u>**, D. Popovic, O. Vaurio, M. Lähteenvuo, J. Lieslehto, "Effects of Substance Use and Antisocial Personality on Neuroimaging-Based Machine Learning Prediction of Schizophrenia", Schizophrenia Bulletin, (2023). [[Paper](https://doi.org/10.1093/schbul/sbad103)].</small>
+ - <small>E. Hiitola, J. Korhonen, J. Koskela, M. Kankainen, M. Alakuijala, H. Kokkonen, A. Liu, P. Häppölä, P. Savola, T. Kelkka, M. Leirisalo-Repo, R. Peltomaa, L. Pirilä, P. Isomäki, M. Kauppi, O. Kaipiainen-Seppänen, G. Genovese, A. Ganna, S. Rantapää-Dahlqvist, S. Mustjoki, M. Myllymäki, FinnGen Consortium, "Clonal Hematopoiesis Associated with Rheumatoid Arthritis", Blood, (2023). [[Paper](https://doi.org/10.1182/blood-2023-173664)].
+
 
 
 <!--
