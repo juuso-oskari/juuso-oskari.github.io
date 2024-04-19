@@ -1,9 +1,9 @@
 # Setup
-title: Yihang Chen (陈一航)
-description: SJTU-Monash Joint Ph.D. Student
-description2: Pronoun - he/him
-url: https://yihangchen-ee.github.io
-avatar: /me.png
+title: Juuso Korhonen
+description: Nokia Visual AI Intern
+description2: Aalto University MSc. in Computer Science
+url: https://juuso-oskari.github.io
+avatar: /profile.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bgs/pexels-senuscape-1658967.jpg
@@ -34,10 +34,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Yihang Chen
+  name: Juuso Korhonen
   links:
     # - https://twitter.com/vszhub
-    - https://yihangchen-ee.github.io
+    - https://juuso-oskari.github.io
 google_site_verification: xxxxx
 lang: en
 
@@ -55,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Yihang Chen
-  url: https://yihangchen-ee.github.io
-  email: yhchen.ee@sjtu.edu.cn
+  name: Juuso Korhonen
+  url: https://juuso-oskari.github.io
+  email: juusokorhoin@gmail.com

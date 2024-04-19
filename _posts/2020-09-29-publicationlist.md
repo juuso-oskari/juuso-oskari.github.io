@@ -4,8 +4,8 @@ title: Publication List
 ---
 
 
- - <small>**<u>Y. Chen</u>**, J. Korhonen, G. Rangu, H. R. Tavakoli, J. Kannala, "Efficient NeRF Optimization - Not All Samples Remain Equally Hard" (2024).</small>
- - <small>**<u>Y. Chen</u>**, M. Taipale, J. Tiihonen, J. Korhonen, D. Popovic, O. Vaurio, M. Lähteenvuo, J. Lieslehto, Effects of Substance Use and Antisocial Personality on Neuroimaging-Based Machine Learning Prediction of Schizophrenia, Schizophrenia Bulletin, November 2023, [[Paper](https://doi.org/10.1093/schbul/sbad103)].</small>
+ - <small>**<u>J. Korhonen</u>**, G. Rangu, H. R. Tavakoli, J. Kannala, "Efficient NeRF Optimization - Not All Samples Remain Equally Hard" (2024).</small>
+ - <small>M. Taipale, J. Tiihonen, **<u>J. Korhonen</u>**, D. Popovic, O. Vaurio, M. Lähteenvuo, J. Lieslehto, Effects of Substance Use and Antisocial Personality on Neuroimaging-Based Machine Learning Prediction of Schizophrenia, Schizophrenia Bulletin, November 2023, [[Paper](https://doi.org/10.1093/schbul/sbad103)].</small>
 
 
 <!--
