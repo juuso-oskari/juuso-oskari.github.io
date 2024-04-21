@@ -27,6 +27,7 @@ title: Selected Projects
     <div style="flex: 2; padding-left: 1px; padding-top: 12px; padding-bottom: 13px; margin-left: 30px;">
       <p style="margin: 1px 0;"><b>Visual SLAM</b></p>
       <p style="margin: 10px 0;"><em>Monocular video SLAM implementation from scratch in C++.</em></p>
+      <p style="margin: -1px 0;"><span style="font-weight: bold;"><u>github</u></span>, <a href="https://github.com/juuso-oskari/VisualSLAM" target="_blank">Github</a></p>
     </div>
   </div>
 
